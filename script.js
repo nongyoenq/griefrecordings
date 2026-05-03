@@ -28,7 +28,7 @@ class NavBar extends HTMLElement {
 			<a href="artists.html">Artists</a>
 			<a href="videos.html">Videos</a>
 			<a href="articles.html">Articles</a>
-			<a href="order.html">Order</a>
+			<a href="order.html">Comment</a>
 			<a href="contact.html">Contact</a>
 		</nav>
 		<hr>
